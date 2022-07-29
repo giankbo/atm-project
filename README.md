@@ -16,7 +16,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/giankbo/atm-project?color=blue">
 
-  <img alt="License" src="https://img.shields.io/github/license/giankbo/atm-project?color=brightgreen">
+  <img alt="License" src="https://img.shields.io/github/license/giankbo/atm-project?color=tomato">
 </p>
 
 <p align="center" markdown="1">
